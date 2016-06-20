@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">极速贷</string>
+    <string name="tv_ask_for">申请</string>
+    <string name="tv_ask_for_now">立即申请</string>
+    
+    <string name="text_content01">借钱不求人，线上审核无需面签</string>
+    <string name="text_content02">免审核信用贷，额度高利息低</string>
+    <string name="text_content03">有身份证就可以贷款，10分钟到账</string>
+    <string name="text_content04">申请没任何要求，审核速度快</string>
+</resources>

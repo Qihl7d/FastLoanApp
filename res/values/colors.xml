@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    
+    <color name="title_backgroud">#24afe1</color>
+    
+    <color name="ask_for_normal">#fe5716</color>
+    <color name="ask_for_pressed">#ef4604</color>
+    
+    <color name="text_deep">#585858</color>
+    <color name="text_line">#e6e6e6</color>
+    
+</resources>
